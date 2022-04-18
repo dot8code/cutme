@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee5ddfdd_002D6feb_002D4a06_002Dbbb3_002Dad37259727e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReturnCorrectFullUrl_When_Shortcut_Is_Correct" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DA35ED4-7A12-43B5-A8C9-B7EE4DD34E5A::net6.0::CutMe.Tests.RedirectServiceShould.GetFullUrlAsync_ThrowArgumentException_When_Shortcut_IsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DA35ED4-7A12-43B5-A8C9-B7EE4DD34E5A::net6.0::CutMe.Tests.RedirectServiceShould.SetRedirectUrlAsync_ReturnCorrectFullUrl_When_Shortcut_Is_Correct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DA35ED4-7A12-43B5-A8C9-B7EE4DD34E5A::net6.0::CutMe.Tests.RedirectServiceShould.SetRedirectUrlAsync_ThrowArgumentException_When_Shortcut_IsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2DA35ED4-7A12-43B5-A8C9-B7EE4DD34E5A::net6.0::CutMe.Tests.RedirectServiceShould.SetRedirectUrlAsync_ThrowConflictException_When_Shortcut_Exist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
